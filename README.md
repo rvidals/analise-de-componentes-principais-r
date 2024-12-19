@@ -1,2 +1,3 @@
-# analise-de-componentes-principais-r
-Curso de Análise de Componentes Principais com R 
+# Analise de componentes principais com R
+
+Curso de Análise de Componentes Principais com R
